@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bank_array">
+        <item>선택하세요</item>
+        <item>신한은행</item>
+        <item>카카오뱅크</item>
+        <item>우리은행</item>
+        <item>농협</item>
+    </string-array>
+</resources>

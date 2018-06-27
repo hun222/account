@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="shinhan">#0076BE</color>
+    <color name="nonghyup">#4EC37D</color>
+    <color name="text_color">#423630</color>
+    <color name="btn_done_color">#5DA4BE</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="warning_color">#f4511e</color>
+    <color name="hint_color">#42000000</color>
+    <color name="success_color">#009688</color>
+</resources>
